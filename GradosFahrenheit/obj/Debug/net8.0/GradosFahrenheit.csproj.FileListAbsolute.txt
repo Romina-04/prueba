@@ -1,0 +1,14 @@
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/bin/Debug/net8.0/GradosFahrenheit
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/bin/Debug/net8.0/GradosFahrenheit.deps.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/bin/Debug/net8.0/GradosFahrenheit.runtimeconfig.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/bin/Debug/net8.0/GradosFahrenheit.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/bin/Debug/net8.0/GradosFahrenheit.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/obj/Debug/net8.0/GradosFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/obj/Debug/net8.0/GradosFahrenheit.AssemblyInfoInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/obj/Debug/net8.0/GradosFahrenheit.AssemblyInfo.cs
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/obj/Debug/net8.0/GradosFahrenheit.csproj.CoreCompileInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/obj/Debug/net8.0/GradosFahrenheit.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/obj/Debug/net8.0/refint/GradosFahrenheit.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/obj/Debug/net8.0/GradosFahrenheit.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/obj/Debug/net8.0/GradosFahrenheit.genruntimeconfig.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/GradosFahrenheit/obj/Debug/net8.0/ref/GradosFahrenheit.dll
