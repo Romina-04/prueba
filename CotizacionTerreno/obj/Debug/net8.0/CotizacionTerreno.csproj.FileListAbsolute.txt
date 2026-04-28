@@ -1,0 +1,15 @@
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/bin/Debug/net8.0/CotizacionTerreno
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/bin/Debug/net8.0/CotizacionTerreno.deps.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/bin/Debug/net8.0/CotizacionTerreno.runtimeconfig.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/bin/Debug/net8.0/CotizacionTerreno.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/bin/Debug/net8.0/CotizacionTerreno.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/obj/Debug/net8.0/CotizacionTerreno.GeneratedMSBuildEditorConfig.editorconfig
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/obj/Debug/net8.0/CotizacionTerreno.AssemblyInfoInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/obj/Debug/net8.0/CotizacionTerreno.AssemblyInfo.cs
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/obj/Debug/net8.0/CotizacionTerreno.csproj.CoreCompileInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/obj/Debug/net8.0/CotizacionTerreno.sourcelink.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/obj/Debug/net8.0/CotizacionTerreno.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/obj/Debug/net8.0/refint/CotizacionTerreno.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/obj/Debug/net8.0/CotizacionTerreno.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/obj/Debug/net8.0/CotizacionTerreno.genruntimeconfig.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionTerreno/obj/Debug/net8.0/ref/CotizacionTerreno.dll

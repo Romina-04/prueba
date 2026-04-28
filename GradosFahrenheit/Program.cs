@@ -8,7 +8,6 @@ namespace GradosFahrenheit
         {
             Console.WriteLine("Ingresa la temperatura en grados Celsius:");
             
-            // El signo '?' soluciona el error CS8600
             string? entrada = Console.ReadLine();
 
             if (!string.IsNullOrEmpty(entrada))

@@ -1,0 +1,15 @@
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/bin/Debug/net8.0/EquivalenciaPies
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/bin/Debug/net8.0/EquivalenciaPies.deps.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/bin/Debug/net8.0/EquivalenciaPies.runtimeconfig.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/bin/Debug/net8.0/EquivalenciaPies.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/bin/Debug/net8.0/EquivalenciaPies.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/obj/Debug/net8.0/EquivalenciaPies.GeneratedMSBuildEditorConfig.editorconfig
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/obj/Debug/net8.0/EquivalenciaPies.AssemblyInfoInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/obj/Debug/net8.0/EquivalenciaPies.AssemblyInfo.cs
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/obj/Debug/net8.0/EquivalenciaPies.csproj.CoreCompileInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/obj/Debug/net8.0/EquivalenciaPies.sourcelink.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/obj/Debug/net8.0/EquivalenciaPies.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/obj/Debug/net8.0/refint/EquivalenciaPies.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/obj/Debug/net8.0/EquivalenciaPies.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/obj/Debug/net8.0/EquivalenciaPies.genruntimeconfig.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciaPies/obj/Debug/net8.0/ref/EquivalenciaPies.dll

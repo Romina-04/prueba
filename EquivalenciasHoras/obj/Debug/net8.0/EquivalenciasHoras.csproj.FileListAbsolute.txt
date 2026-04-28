@@ -1,0 +1,15 @@
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/obj/Debug/net8.0/EquivalenciasHoras.GeneratedMSBuildEditorConfig.editorconfig
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/obj/Debug/net8.0/EquivalenciasHoras.AssemblyInfoInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/obj/Debug/net8.0/EquivalenciasHoras.AssemblyInfo.cs
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/obj/Debug/net8.0/EquivalenciasHoras.csproj.CoreCompileInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/obj/Debug/net8.0/EquivalenciasHoras.sourcelink.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/bin/Debug/net8.0/EquivalenciasHoras
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/bin/Debug/net8.0/EquivalenciasHoras.deps.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/bin/Debug/net8.0/EquivalenciasHoras.runtimeconfig.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/bin/Debug/net8.0/EquivalenciasHoras.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/bin/Debug/net8.0/EquivalenciasHoras.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/obj/Debug/net8.0/EquivalenciasHoras.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/obj/Debug/net8.0/refint/EquivalenciasHoras.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/obj/Debug/net8.0/EquivalenciasHoras.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/obj/Debug/net8.0/EquivalenciasHoras.genruntimeconfig.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EquivalenciasHoras/obj/Debug/net8.0/ref/EquivalenciasHoras.dll

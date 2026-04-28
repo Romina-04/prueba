@@ -1,0 +1,15 @@
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/bin/Debug/net8.0/Facturacion
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/bin/Debug/net8.0/Facturacion.deps.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/bin/Debug/net8.0/Facturacion.runtimeconfig.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/bin/Debug/net8.0/Facturacion.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/bin/Debug/net8.0/Facturacion.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/obj/Debug/net8.0/Facturacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/obj/Debug/net8.0/Facturacion.AssemblyInfoInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/obj/Debug/net8.0/Facturacion.AssemblyInfo.cs
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/obj/Debug/net8.0/Facturacion.csproj.CoreCompileInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/obj/Debug/net8.0/Facturacion.sourcelink.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/obj/Debug/net8.0/Facturacion.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/obj/Debug/net8.0/refint/Facturacion.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/obj/Debug/net8.0/Facturacion.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/obj/Debug/net8.0/Facturacion.genruntimeconfig.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/Facturacion/obj/Debug/net8.0/ref/Facturacion.dll

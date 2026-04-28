@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("GradosFahrenheit")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EquivalenciaPies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8c8f3dae344616566e28010572e8e39cceaa824")]
-[assembly: System.Reflection.AssemblyProductAttribute("GradosFahrenheit")]
-[assembly: System.Reflection.AssemblyTitleAttribute("GradosFahrenheit")]
+[assembly: System.Reflection.AssemblyProductAttribute("EquivalenciaPies")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EquivalenciaPies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

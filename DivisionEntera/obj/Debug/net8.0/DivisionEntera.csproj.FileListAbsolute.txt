@@ -1,0 +1,15 @@
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/bin/Debug/net8.0/DivisionEntera
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/bin/Debug/net8.0/DivisionEntera.deps.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/bin/Debug/net8.0/DivisionEntera.runtimeconfig.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/bin/Debug/net8.0/DivisionEntera.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/bin/Debug/net8.0/DivisionEntera.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/obj/Debug/net8.0/DivisionEntera.GeneratedMSBuildEditorConfig.editorconfig
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/obj/Debug/net8.0/DivisionEntera.AssemblyInfoInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/obj/Debug/net8.0/DivisionEntera.AssemblyInfo.cs
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/obj/Debug/net8.0/DivisionEntera.csproj.CoreCompileInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/obj/Debug/net8.0/DivisionEntera.sourcelink.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/obj/Debug/net8.0/DivisionEntera.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/obj/Debug/net8.0/refint/DivisionEntera.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/obj/Debug/net8.0/DivisionEntera.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/obj/Debug/net8.0/DivisionEntera.genruntimeconfig.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/DivisionEntera/obj/Debug/net8.0/ref/DivisionEntera.dll

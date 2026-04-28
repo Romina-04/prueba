@@ -1,0 +1,15 @@
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/obj/Debug/net8.0/CotizacionDolar.GeneratedMSBuildEditorConfig.editorconfig
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/obj/Debug/net8.0/CotizacionDolar.AssemblyInfoInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/obj/Debug/net8.0/CotizacionDolar.AssemblyInfo.cs
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/obj/Debug/net8.0/CotizacionDolar.csproj.CoreCompileInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/obj/Debug/net8.0/CotizacionDolar.sourcelink.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/bin/Debug/net8.0/CotizacionDolar
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/bin/Debug/net8.0/CotizacionDolar.deps.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/bin/Debug/net8.0/CotizacionDolar.runtimeconfig.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/bin/Debug/net8.0/CotizacionDolar.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/bin/Debug/net8.0/CotizacionDolar.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/obj/Debug/net8.0/CotizacionDolar.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/obj/Debug/net8.0/refint/CotizacionDolar.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/obj/Debug/net8.0/CotizacionDolar.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/obj/Debug/net8.0/CotizacionDolar.genruntimeconfig.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/CotizacionDolar/obj/Debug/net8.0/ref/CotizacionDolar.dll

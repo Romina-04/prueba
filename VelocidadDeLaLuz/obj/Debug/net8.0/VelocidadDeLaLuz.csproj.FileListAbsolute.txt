@@ -1,0 +1,15 @@
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/bin/Debug/net8.0/VelocidadDeLaLuz
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/bin/Debug/net8.0/VelocidadDeLaLuz.deps.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/bin/Debug/net8.0/VelocidadDeLaLuz.runtimeconfig.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/bin/Debug/net8.0/VelocidadDeLaLuz.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/bin/Debug/net8.0/VelocidadDeLaLuz.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/obj/Debug/net8.0/VelocidadDeLaLuz.GeneratedMSBuildEditorConfig.editorconfig
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/obj/Debug/net8.0/VelocidadDeLaLuz.AssemblyInfoInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/obj/Debug/net8.0/VelocidadDeLaLuz.AssemblyInfo.cs
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/obj/Debug/net8.0/VelocidadDeLaLuz.csproj.CoreCompileInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/obj/Debug/net8.0/VelocidadDeLaLuz.sourcelink.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/obj/Debug/net8.0/VelocidadDeLaLuz.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/obj/Debug/net8.0/refint/VelocidadDeLaLuz.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/obj/Debug/net8.0/VelocidadDeLaLuz.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/obj/Debug/net8.0/VelocidadDeLaLuz.genruntimeconfig.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/VelocidadDeLaLuz/obj/Debug/net8.0/ref/VelocidadDeLaLuz.dll

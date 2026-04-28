@@ -1,0 +1,15 @@
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/bin/Debug/net8.0/EstadisticasEnteros
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/bin/Debug/net8.0/EstadisticasEnteros.deps.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/bin/Debug/net8.0/EstadisticasEnteros.runtimeconfig.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/bin/Debug/net8.0/EstadisticasEnteros.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/bin/Debug/net8.0/EstadisticasEnteros.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/obj/Debug/net8.0/EstadisticasEnteros.GeneratedMSBuildEditorConfig.editorconfig
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/obj/Debug/net8.0/EstadisticasEnteros.AssemblyInfoInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/obj/Debug/net8.0/EstadisticasEnteros.AssemblyInfo.cs
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/obj/Debug/net8.0/EstadisticasEnteros.csproj.CoreCompileInputs.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/obj/Debug/net8.0/EstadisticasEnteros.sourcelink.json
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/obj/Debug/net8.0/EstadisticasEnteros.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/obj/Debug/net8.0/refint/EstadisticasEnteros.dll
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/obj/Debug/net8.0/EstadisticasEnteros.pdb
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/obj/Debug/net8.0/EstadisticasEnteros.genruntimeconfig.cache
+/home/romina/Documentos/TERCER_AÑO/RESUMENES/PROGRAMACIO2/variables_operacionales/EstadisticasEnteros/obj/Debug/net8.0/ref/EstadisticasEnteros.dll
